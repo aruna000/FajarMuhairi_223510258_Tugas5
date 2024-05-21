@@ -8,7 +8,7 @@
     >
       <q-header elevated class="bg-deep-purple-2">
         <q-toolbar>
-          <q-btn flat round dense src="src\valorant.svg" />
+          <q-btn flat round dense src="/public/valo1.jpg" />
           <q-toolbar-title>Valo Shop</q-toolbar-title>
 
           <q-space />
@@ -48,11 +48,11 @@
                 >
                   <q-img
                     class="rounded-borders col-6 full-height"
-                    src="src\valo2.jpg"
+                    src="/valo2.jpg"
                   />
                   <q-img
                     class="rounded-borders col-6 full-height"
-                    src="src\valo3.jpg"
+                    src="/valo3.jpg"
                   />
                 </div>
               </q-carousel-slide>
@@ -62,11 +62,11 @@
                 >
                   <q-img
                     class="rounded-borders col-6 full-height"
-                    src="src\valo4.jpg"
+                    src="/valo4.jpg"
                   />
                   <q-img
                     class="rounded-borders col-6 full-height"
-                    src="src\valo5.jpg"
+                    src="/valo5.jpg"
                   />
                 </div>
               </q-carousel-slide>
@@ -80,7 +80,7 @@
               <q-card-section>
                 <q-img
                   class="rounded-borders col-6 full-height"
-                  src="src\point.png"
+                  src="/point.png"
                 />
                 <div class="text-subtitle2 text-center">125 Points</div>
                 <div class="text-subtitle2 text-center">Rp.14.000</div>
@@ -107,7 +107,7 @@
               <q-card-section>
                 <q-img
                   class="rounded-borders col-6 full-height"
-                  src="src\point.png"
+                  src="/point.png"
                 />
                 <div class="text-subtitle2 text-center">420 Points</div>
                 <div class="text-subtitle2 text-center">Rp.46.000</div>
@@ -134,7 +134,7 @@
               <q-card-section>
                 <q-img
                   class="rounded-borders col-6 full-height"
-                  src="src\point.png"
+                  src="/point.png"
                 />
                 <div class="text-subtitle2 text-center">1375 Points</div>
                 <div class="text-subtitle2 text-center">Rp.136.000</div>
@@ -161,7 +161,7 @@
               <q-card-section>
                 <q-img
                   class="rounded-borders col-6 full-height"
-                  src="src\point.png"
+                  src="/point.png"
                 />
                 <div class="text-subtitle2 text-center">2400 Points</div>
                 <div class="text-subtitle2 text-center">Rp.226.000</div>
